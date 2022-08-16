@@ -1,0 +1,23 @@
+body {
+   padding: 20px;
+   background-color: snow;
+   font-family: Tahoma, sans-serif
+}
+
+h1 {
+   text-align: center;
+   padding: 20px;
+   color: white;
+   background-color: grey;
+}
+
+h2 {
+   padding: 10px;
+   color: black;
+   background-color: silver;   
+}
+
+p {
+   padding: 10px;
+   text-align: justify;
+}
